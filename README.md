@@ -3,6 +3,10 @@ This is a simple python (flask) application that exposes the values read from a 
 
 Uses [Adafruit's DHT Library](https://github.com/adafruit/Adafruit_Python_DHT) to access the data on the GPIO.
 
+```
+pip3 install virtualenv
+```
+
 ## Installation
 ### Step 1: Virtualenv Setup
 Create a virtualenv for our python stuff (to isolate from other python things):
